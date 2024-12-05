@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Usuarios/usuarios/5768280c-c1b4-4b16-b9b9-223e2ab17d63.9agrg302p4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\usuarios\5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9agrg302p4"},{"Name":"integrity","Value":"sha256-z/jspld18BSNKayvxNCw3WtiIqtDDBtmanpMSMJe0ys="},{"Name":"label","Value":"_content/Usuarios/usuarios/5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"172701"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022z/jspld18BSNKayvxNCw3WtiIqtDDBtmanpMSMJe0ys=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 22:51:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Usuarios/usuarios/5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\usuarios\5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-z/jspld18BSNKayvxNCw3WtiIqtDDBtmanpMSMJe0ys="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"172701"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022z/jspld18BSNKayvxNCw3WtiIqtDDBtmanpMSMJe0ys=\u0022"},{"Name":"Last-Modified","Value":"Thu, 14 Nov 2024 22:51:44 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

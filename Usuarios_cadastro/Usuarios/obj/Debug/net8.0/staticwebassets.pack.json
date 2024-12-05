@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Aula\\Downloads\\Projeto Eficaz (1)\\Projeto Eficaz\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\35125382-3dfb-4937-86e7-e3d4625600b6.webp",
+      "PackagePath": "staticwebassets\\usuarios\\35125382-3dfb-4937-86e7-e3d4625600b6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Aula\\Downloads\\Projeto Eficaz (1)\\Projeto Eficaz\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg",
+      "PackagePath": "staticwebassets\\usuarios\\5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Usuarios.props",
+      "PackagePath": "build\\Usuarios.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Usuarios.props",
+      "PackagePath": "buildMultiTargeting\\Usuarios.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Usuarios.props",
+      "PackagePath": "buildTransitive\\Usuarios.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

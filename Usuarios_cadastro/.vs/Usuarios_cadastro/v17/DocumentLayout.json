@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6B7D21-0F4F-4CE8-A931-F65835B263B1}|Usuarios\\Usuarios.csproj|c:\\users\\aula\\downloads\\usuarios_cadastro\\usuarios\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6B7D21-0F4F-4CE8-A931-F65835B263B1}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\controller\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6B7D21-0F4F-4CE8-A931-F65835B263B1}|Usuarios\\Usuarios.csproj|c:\\users\\aula\\downloads\\usuarios_cadastro\\usuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E6B7D21-0F4F-4CE8-A931-F65835B263B1}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7E6B7D21-0F4F-4CE8-A931-F65835B263B1}|Usuarios\\Usuarios.csproj|c:\\users\\aula\\downloads\\usuarios_cadastro\\usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7E6B7D21-0F4F-4CE8-A931-F65835B263B1}|Usuarios\\Usuarios.csproj|solutionrelative:usuarios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2995D5-2483-460F-BEEF-48DFF67A166B}|Core\\Core.csproj|c:\\users\\aula\\downloads\\usuarios_cadastro\\core\\models\\enderecomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2995D5-2483-460F-BEEF-48DFF67A166B}|Core\\Core.csproj|solutionrelative:core\\models\\enderecomodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F2995D5-2483-460F-BEEF-48DFF67A166B}|Core\\Core.csproj|c:\\users\\aula\\downloads\\usuarios_cadastro\\core\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F2995D5-2483-460F-BEEF-48DFF67A166B}|Core\\Core.csproj|solutionrelative:core\\dtos\\enderecodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D78FF35-D27E-454E-AD6E-06F087720CAC}|Infrastructure\\Infrastructure.csproj|c:\\users\\aula\\downloads\\usuarios_cadastro\\infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D78FF35-D27E-454E-AD6E-06F087720CAC}|Infrastructure\\Infrastructure.csproj|solutionrelative:infrastructure\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 128,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Usuarios\\Program.cs",
+              "RelativeDocumentMoniker": "Usuarios\\Program.cs",
+              "ToolTip": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Usuarios\\Program.cs",
+              "RelativeToolTip": "Usuarios\\Program.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAAAmwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T01:05:48.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnderecoModels.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Core\\Models\\EnderecoModels.cs",
+              "RelativeDocumentMoniker": "Core\\Models\\EnderecoModels.cs",
+              "ToolTip": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Core\\Models\\EnderecoModels.cs",
+              "RelativeToolTip": "Core\\Models\\EnderecoModels.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:49:35.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnderecoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Core\\DTOs\\EnderecoDto.cs",
+              "RelativeDocumentMoniker": "Core\\DTOs\\EnderecoDto.cs",
+              "ToolTip": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Core\\DTOs\\EnderecoDto.cs",
+              "RelativeToolTip": "Core\\DTOs\\EnderecoDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T00:37:02.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Usuarios\\appsettings.json",
+              "RelativeDocumentMoniker": "Usuarios\\appsettings.json",
+              "ToolTip": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Usuarios\\appsettings.json",
+              "RelativeToolTip": "Usuarios\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-16T02:37:37.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:39:13.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Usuarios\\Controller\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Usuarios\\Controller\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Aula\\Downloads\\Usuarios_cadastro\\Usuarios\\Controller\\UsuarioController.cs",
+              "RelativeToolTip": "Usuarios\\Controller\\UsuarioController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwCoAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T20:20:21.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

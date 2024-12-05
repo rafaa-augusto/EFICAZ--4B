@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "rTlkRtV6xS4rtMSBok1AzQu9vI5XTSdKYDHCnb0cXQ4=",
+  "Source": "Usuarios",
+  "BasePath": "_content/Usuarios",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Usuarios\\wwwroot",
+      "Source": "Usuarios",
+      "ContentRoot": "C:\\Users\\Aula\\Downloads\\Projeto Eficaz (1)\\Projeto Eficaz\\Usuarios_cadastro\\Usuarios\\wwwroot\\",
+      "BasePath": "_content/Usuarios",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Aula\\Downloads\\Projeto Eficaz (1)\\Projeto Eficaz\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\35125382-3dfb-4937-86e7-e3d4625600b6.webp",
+      "SourceId": "Usuarios",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aula\\Downloads\\Projeto Eficaz (1)\\Projeto Eficaz\\Usuarios_cadastro\\Usuarios\\wwwroot\\",
+      "BasePath": "_content/Usuarios",
+      "RelativePath": "usuarios/35125382-3dfb-4937-86e7-e3d4625600b6.webp",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\usuarios\\35125382-3dfb-4937-86e7-e3d4625600b6.webp"
+    },
+    {
+      "Identity": "C:\\Users\\Aula\\Downloads\\Projeto Eficaz (1)\\Projeto Eficaz\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg",
+      "SourceId": "Usuarios",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Aula\\Downloads\\Projeto Eficaz (1)\\Projeto Eficaz\\Usuarios_cadastro\\Usuarios\\wwwroot\\",
+      "BasePath": "_content/Usuarios",
+      "RelativePath": "usuarios/5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\usuarios\\5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg"
+    }
+  ]
+}
