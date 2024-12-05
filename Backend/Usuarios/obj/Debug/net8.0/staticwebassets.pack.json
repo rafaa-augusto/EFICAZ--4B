@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\18467085-8a59-4646-98bc-4473e4b87524.png",
+      "PackagePath": "staticwebassets\\usuarios\\18467085-8a59-4646-98bc-4473e4b87524.png"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\1f3d7f71-e5ee-4738-9b29-9f6b0e2ff782.png",
+      "PackagePath": "staticwebassets\\usuarios\\1f3d7f71-e5ee-4738-9b29-9f6b0e2ff782.png"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\2.png",
+      "PackagePath": "staticwebassets\\usuarios\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\35125382-3dfb-4937-86e7-e3d4625600b6.webp",
+      "PackagePath": "staticwebassets\\usuarios\\35125382-3dfb-4937-86e7-e3d4625600b6.webp"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\3523.png",
+      "PackagePath": "staticwebassets\\usuarios\\3523.png"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\45aca1f7-25c1-4905-a45f-d429754091f1.png",
+      "PackagePath": "staticwebassets\\usuarios\\45aca1f7-25c1-4905-a45f-d429754091f1.png"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg",
+      "PackagePath": "staticwebassets\\usuarios\\5768280c-c1b4-4b16-b9b9-223e2ab17d63.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\5d9c2b60-44f6-4e0e-a8ef-d6e0127ce72f.png",
+      "PackagePath": "staticwebassets\\usuarios\\5d9c2b60-44f6-4e0e-a8ef-d6e0127ce72f.png"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\69a3bcfd-530c-4772-a2dd-b62853f74639.jpg",
+      "PackagePath": "staticwebassets\\usuarios\\69a3bcfd-530c-4772-a2dd-b62853f74639.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\aa72e2a0-73d6-4b82-a337-f6d23c6765cb.png",
+      "PackagePath": "staticwebassets\\usuarios\\aa72e2a0-73d6-4b82-a337-f6d23c6765cb.png"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\b33e80da-4e8a-4eb2-bf3e-2a578ecd525d.png",
+      "PackagePath": "staticwebassets\\usuarios\\b33e80da-4e8a-4eb2-bf3e-2a578ecd525d.png"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\b3d495c3-8f19-42d1-8574-b9a3acc1019a.jpg",
+      "PackagePath": "staticwebassets\\usuarios\\b3d495c3-8f19-42d1-8574-b9a3acc1019a.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Carloscolombo\\Documents\\Usuarios_cadastro\\Usuarios\\wwwroot\\usuarios\\f5285a33-77bc-430e-9a11-3840b6fa38d7.jpg",
+      "PackagePath": "staticwebassets\\usuarios\\f5285a33-77bc-430e-9a11-3840b6fa38d7.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Usuarios.props",
+      "PackagePath": "build\\Usuarios.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Usuarios.props",
+      "PackagePath": "buildMultiTargeting\\Usuarios.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Usuarios.props",
+      "PackagePath": "buildTransitive\\Usuarios.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

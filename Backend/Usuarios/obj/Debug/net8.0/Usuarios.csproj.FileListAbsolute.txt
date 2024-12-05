@@ -1,0 +1,1301 @@
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\log4net.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Migrations.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.pdb
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.pdb
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Usuarios.props
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usuarios.props
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usuarios.props
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\log4net.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Migrations.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.pdb
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.pdb
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Usuarios.props
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usuarios.props
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usuarios.props
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.Up2Date
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kauec\OneDrive\Documentos\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\log4net.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Migrations.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.pdb
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.pdb
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Usuarios.props
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usuarios.props
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usuarios.props
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.Up2Date
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\log4net.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Migrations.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.pdb
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.pdb
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Usuarios.props
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usuarios.props
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usuarios.props
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.Up2Date
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\kauec\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CopyComplete
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.staticwebassets.runtime.json
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\log4net.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Migrations.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.pdb
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.pdb
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Usuarios.props
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usuarios.props
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usuarios.props
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.Up2Date
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\Kaue\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.staticwebassets.runtime.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\log4net.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Migrations.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.pdb
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.pdb
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.sourcelink.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Usuarios.props
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usuarios.props
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usuarios.props
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.Up2Date
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\Gamer\OneDrive\Área de Trabalho\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.staticwebassets.runtime.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.staticwebassets.endpoints.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\log4net.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Migrations.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.pdb
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.pdb
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Usuarios.props
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usuarios.props
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usuarios.props
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.Up2Date
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\Aula\Downloads\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.staticwebassets.runtime.json
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\log4net.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Migrations.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.pdb
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.pdb
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Usuarios.props
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usuarios.props
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usuarios.props
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CopyComplete
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\Aula\Downloads\Projeto Eficaz (1)\Projeto Eficaz\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.staticwebassets.runtime.json
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\log4net.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Migrations.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.pdb
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.pdb
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Usuarios.props
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usuarios.props
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usuarios.props
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.Up2Date
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\Kaue\Documents\Projetos\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.staticwebassets.runtime.json
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.exe
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.deps.json
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.runtimeconfig.json
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Usuarios.pdb
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\log4net.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Bcl.TimeProvider.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Migrations.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\MySqlConnector.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.Design.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Application.pdb
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Core.pdb
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\bin\Debug\net8.0\Infrastructure.pdb
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.AssemblyReference.cache
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfoInputs.cache
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.AssemblyInfo.cs
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CoreCompileInputs.cache
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.Usuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.Usuarios.props
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Usuarios.props
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Usuarios.props
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\scopedcss\bundle\Usuarios.styles.css
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.csproj.CopyComplete
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\refint\Usuarios.dll
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.pdb
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\Usuarios.genruntimeconfig.cache
+C:\Users\Carloscolombo\Documents\Usuarios_cadastro\Usuarios\obj\Debug\net8.0\ref\Usuarios.dll
