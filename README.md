@@ -101,8 +101,4 @@ O projeto utiliza as seguintes tecnologias:
 
 ### Outros
 - **Figma**: Ferramenta de design para criação de wireframes e protótipos.
-- **Trello**: Para gestão de tarefas e organização do projeto.
-
-
-
-**Caso queira ajustar ou adicionar mais detalhes**, sinta-se à vontade para me informar! 😊
+- **Trello**: Para gestão de tarefas e organização do time.
