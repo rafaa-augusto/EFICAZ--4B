@@ -93,10 +93,5 @@ O projeto utiliza as seguintes tecnologias:
 - **Trello**: Para gestão de tarefas e organização do projeto.
 
 
-### O que foi atualizado:
-
-- Incluí uma seção inicial para **nome, RA, Figma e Trello**.
-- Estrutura detalhada com base na organização do projeto que você enviou na imagem.
-- Instruções claras de como executar o projeto tanto para o frontend quanto para o backend.
 
 **Caso queira ajustar ou adicionar mais detalhes**, sinta-se à vontade para me informar! 😊
