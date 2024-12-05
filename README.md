@@ -8,7 +8,7 @@ Este repositório contém o código-fonte para o site **Gabini Headset Store**, 
 - **RA:** [1972020]
 
 ## Links do Projeto
-- **Figma:** [Link para o Figma]([https://figma.com](https://trello.com/invite/b/66b17a149fc907071366fe55/ATTI7d19abdb2dafd578720c661bed9f6f1a0BBF6E68/ctrl-c-ctrl-v))
+- **Figma:** [Link para o Figma](https://www.figma.com/design/xTp9eWbIrXcm8QLGv0T81f/EFICAZ?node-id=0-1&node-type=canvas&t=Ph3QvWY73qwdjsO7-0)
 - **Trello:** [Link para o Trello]([https://trello.com](https://www.figma.com/design/4K4fO1eAHq3Rx3jaypyPXg/LP-UNIMAR---EFICAZ))
 
 
