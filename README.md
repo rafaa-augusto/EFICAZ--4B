@@ -5,7 +5,8 @@ Este repositório contém o código-fonte para o site **Gabini Headset Store**, 
 
 ## Desenvolvedores
 - **Nome:** Rafael Augusto,  **RA:** 1972020
--**Nome:* , **RA:** 
+  
+- **Nome:* , **RA:** 
 
 ## Links do Projeto
 - **Figma:** [Link para o Figma](https://www.figma.com/design/xTp9eWbIrXcm8QLGv0T81f/EFICAZ?node-id=0-1&node-type=canvas&t=Ph3QvWY73qwdjsO7-0)
