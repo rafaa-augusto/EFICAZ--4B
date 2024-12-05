@@ -3,9 +3,9 @@
 Este repositório contém o código-fonte para o site **Gabini Headset Store**, uma loja virtual focada na venda de headsets de alta qualidade. O projeto é desenvolvido utilizando **HTML, CSS** e inclui integrações com bibliotecas como **Font Awesome** e **Bootstrap Icons** para estilização.
 
 
-## Desenvolvedor
-- **Nome:** [Rafael Augusto]
-- **RA:** [1972020]
+## Desenvolvedores
+- **Nome:** Rafael Augusto,  **RA:** 1972020
+-**Nome:* , **RA:** 
 
 ## Links do Projeto
 - **Figma:** [Link para o Figma](https://www.figma.com/design/xTp9eWbIrXcm8QLGv0T81f/EFICAZ?node-id=0-1&node-type=canvas&t=Ph3QvWY73qwdjsO7-0)
