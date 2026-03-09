@@ -1,6 +1,10 @@
-# Gabini Headset Store - Website
+# Projeto Acadêmico: Gabini Headset Store - Website
 
-Este repositório contém o código-fonte para o site **Gabini Headset Store**, uma loja virtual focada na venda de headsets de alta qualidade. O projeto é desenvolvido utilizando **HTML, CSS** e inclui integrações com bibliotecas como **Font Awesome** e **Bootstrap Icons** para estilização.
+Este projeto foi desenvolvido no contexto acadêmico com o objetivo de **aplicar e integrar conhecimentos adquiridos em diferentes disciplinas do curso** em um único sistema. A proposta busca unir conceitos teóricos e práticos, permitindo que os alunos experimentem o desenvolvimento de um projeto mais próximo de um cenário real de trabalho.
+
+O desafio foi **proposto pela empresa Eficaz**, que apresentou o problema e os requisitos do sistema, possibilitando aos alunos trabalhar com uma demanda inspirada no mercado. Dessa forma, o projeto também teve como objetivo desenvolver habilidades como **trabalho em equipe, organização de tarefas e aplicação de boas práticas de desenvolvimento de software**.
+
+Este repositório contém o **código-fonte do site Gabini Headset Store**, uma loja virtual focada na venda de **headsets de alta qualidade**. O projeto foi desenvolvido utilizando **HTML, CSS, Vue.js e C#**, além de incluir integrações com bibliotecas como **Font Awesome** e **Bootstrap Icons** para auxiliar na estilização e na interface do usuário.
 
 
 ## Desenvolvedores
